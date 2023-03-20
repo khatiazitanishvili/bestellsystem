@@ -18,7 +18,8 @@ The project includes different classes:
 
 ## Documentation
 
-[Documentation](http://127.0.0.1:5500/doc/se1.bestellsystem/module-summary.html)
+[Documentation](http://khatiazitanishvili/bestellsystem/doc/index.html)
+
 
 
 
