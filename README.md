@@ -18,7 +18,7 @@ The project includes different classes:
 
 ## Documentation
 
-[Documentation](https://github.com/khatiazitanishvili/bestellsystem/blob/main/doc/index.html)
+[Documentation](https://github.com/khatiazitanishvili/bestellsystem/doc/index.html)
 
 
 
