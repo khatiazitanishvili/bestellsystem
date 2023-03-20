@@ -22,4 +22,4 @@ The project includes different classes:
 
 
 
-<img width="1050" alt="Screenshot 2023-03-20 at 13 25 44" src="https://user-images.githubusercontent.com/115110472/226340175-4a2f8342-097e-49ad-acc2-3ca78cfc5da5.png">
+<img width="600" alt="Screenshot 2023-03-20 at 13 25 44" src="https://user-images.githubusercontent.com/115110472/226340175-4a2f8342-097e-49ad-acc2-3ca78cfc5da5.png">
