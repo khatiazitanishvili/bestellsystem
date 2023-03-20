@@ -1,0 +1,17 @@
+# Options for program execution JUnit tests using JUnit5 launcher
+# https://mvnrepository.com/artifact/org.junit.platform/junit-platform-console-standalone/1.8.2
+# https://junit.org/junit5/docs/current/user-guide
+# https://javabydeveloper.com/junit-5-consolelauncher-options-examples
+#
+# use:
+#  java @resources/junit-options.opt --scan-class-path
+#  java @resources/junit-options.opt `cat resources/junit-classes_C4.opt`
+#  //
+#  options:
+#		--details=none, summary, flat, tree, verbose
+#		--reports-dir=reports
+#		--select-package com.javabydeveloper.util
+#		--select-class datamodel.Customer_100_ConstructorTest
+#
+
+-jar lib/runner/junit-platform-console-standalone-1.8.2.jar --class-path bin

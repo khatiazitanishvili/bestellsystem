@@ -1,0 +1,5 @@
+--select-class datamodel.Customer_100_ConstructorTest
+--select-class datamodel.Customer_200_SetIdTest
+--select-class datamodel.Customer_300_SetNameTest
+--select-class datamodel.Customer_400_ContactsTest
+--select-class datamodel.Customer_500_SetNameExtendedTest

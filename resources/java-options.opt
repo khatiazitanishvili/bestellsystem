@@ -1,0 +1,10 @@
+# Options for program execution for JavaVM
+# --module-path	<path>	- where java looks for modules
+# --add-modules <modules> - modules to include in launch
+#
+# use:
+#  java @resources/java-options.opt application.Application
+#  java @resources/java-options.opt application.Application_C3
+#
+
+--module-path="bin;lib" --add-modules="se1.bestellsystem"

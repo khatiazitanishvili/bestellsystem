@@ -1,0 +1,15 @@
+--select-class datamodel.Customer_100_ConstructorTest
+--select-class datamodel.Customer_200_SetIdTest
+--select-class datamodel.Customer_300_SetNameTest
+--select-class datamodel.Customer_400_ContactsTest
+--select-class datamodel.Customer_500_SetNameExtendedTest
+--select-class datamodel.Article_100_ConstructorTest
+--select-class datamodel.Article_200_SetIdTest
+--select-class datamodel.Article_300_DescriptionTest
+--select-class datamodel.Article_400_UnitPriceTest
+--select-class datamodel.Article_500_CurrencyTest
+--select-class datamodel.Article_600_TAXTest
+--select-class datamodel.Order_100_ConstructorTest
+--select-class datamodel.Order_200_SetIdTest
+--select-class datamodel.Order_300_CreationDateTest
+--select-class datamodel.Order_400_OrderItemsTest
